@@ -42,9 +42,11 @@ Hardware: Arduino, Raspberry Pi
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](http://linkedin.com/in/aakanksha-maken)
+- 💼 [LinkedIn](http://linkedin.com/in/aakanksha-maken)  
 - 📄 [Resume (PDF)](https://drive.google.com/file/d/1VDNLpYQDiTMKPhpTaxvtzAQjB4UISztQ/view?usp=drivesdk)  
-- 📬 Email: makenaakanksha@gmail.com
+- 📬 Email: [makenaakanksha@gmail.com](mailto:makenaakanksha@gmail.com)
+
+
 
 
 
