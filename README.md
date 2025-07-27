@@ -43,7 +43,7 @@ Hardware: Arduino, Raspberry Pi
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](http://linkedin.com/in/aakanksha-maken)
-- 📄 [Resume (PDF)](https://your-resume-link.com/resume.pdf)  
+- 📄 [Resume (PDF)](https://drive.google.com/file/d/1VDNLpYQDiTMKPhpTaxvtzAQjB4UISztQ/view?usp=drivesdk)  
 - 📬 Email: makenaakanksha@gmail.com
 
 
