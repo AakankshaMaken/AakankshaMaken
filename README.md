@@ -38,4 +38,13 @@ Computer Vision: OpenCV, MediaPipe
 Tools: Git, VS Code, Jupyter Notebook  
 Hardware: Arduino, Raspberry Pi
 
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](http://linkedin.com/in/aakanksha-maken)
+- 📄 [Resume (PDF)](https://your-resume-link.com/resume.pdf)  
+- 📬 Email: makenaakanksha@gmail.com
+
+
 
